@@ -1,0 +1,3282 @@
+{
+	"nodes": [
+	    {
+	        "category":"Hiking",
+	        "super_category":"Active Life",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Parks",
+	        "super_category":"Active Life",
+	        "count":21,
+	        "level":2
+	    },
+	    {
+	        "category":"Playgrounds",
+	        "super_category":"Active Life",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Barbers",
+	        "super_category":"Beauty & Spas",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Specialty Schools",
+	        "super_category":"Education",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Caterers",
+	        "super_category":"Event Planning & Services",
+	        "count":11,
+	        "level":2
+	    },
+	    {
+	        "category":"Venues & Event Spaces",
+	        "super_category":"Event Planning & Services",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Bagels",
+	        "super_category":"Food",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "category":"Bakeries",
+	        "super_category":"Food",
+	        "count":31,
+	        "level":2
+	    },
+	    {
+	        "category":"Beer, Wine & Spirits",
+	        "super_category":"Food",
+	        "count":5,
+	        "level":2
+	    },
+	    {
+	        "category":"Breweries",
+	        "super_category":"Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Bubble Tea",
+	        "super_category":"Food",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "category":"Coffee & Tea",
+	        "super_category":"Food",
+	        "count":69,
+	        "level":2
+	    },
+	    {
+	        "category":"Convenience Stores",
+	        "super_category":"Food",
+	        "count":10,
+	        "level":2
+	    },
+	    {
+	        "category":"Cupcakes",
+	        "super_category":"Food",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Custom Cakes",
+	        "super_category":"Food",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "category":"Desserts",
+	        "super_category":"Food",
+	        "count":26,
+	        "level":2
+	    },
+	    {
+	        "category":"Donuts",
+	        "super_category":"Food",
+	        "count":8,
+	        "level":2
+	    },
+	    {
+	        "category":"Empanadas",
+	        "super_category":"Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Food Delivery Services",
+	        "super_category":"Food",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "category":"Food Trucks",
+	        "super_category":"Food",
+	        "count":16,
+	        "level":2
+	    },
+	    {
+	        "category":"Grocery",
+	        "super_category":"Food",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "category":"Ice Cream & Frozen Yogurt",
+	        "super_category":"Food",
+	        "count":14,
+	        "level":2
+	    },
+	    {
+	        "category":"Juice Bars & Smoothies",
+	        "super_category":"Food",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "category":"Poke",
+	        "super_category":"Food",
+	        "count":5,
+	        "level":2
+	    },
+	    {
+	        "category":"Shaved Ice",
+	        "super_category":"Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Shaved Snow",
+	        "super_category":"Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Smokehouse",
+	        "super_category":"Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Specialty Food",
+	        "super_category":"Food",
+	        "count":5,
+	        "level":2
+	    },
+	    {
+	        "category":"Street Vendors",
+	        "super_category":"Food",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "category":"Tea Rooms",
+	        "super_category":"Food",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Tours",
+	        "super_category":"Hotels & Travel",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Public Art",
+	        "super_category":"Local Flavor",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Yelp Events",
+	        "super_category":"Local Flavor",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Bars",
+	        "super_category":"Nightlife",
+	        "count":49,
+	        "level":2
+	    },
+	    {
+	        "category":"Dance Clubs",
+	        "super_category":"Nightlife",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Jazz & Blues",
+	        "super_category":"Nightlife",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Karaoke",
+	        "super_category":"Nightlife",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "category":"Music Venues",
+	        "super_category":"Nightlife",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Pool Halls",
+	        "super_category":"Nightlife",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Landmarks & Historical Buildings",
+	        "super_category":"Public Services & Government",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"American (New)",
+	        "super_category":"Restaurants",
+	        "count":26,
+	        "level":2
+	    },
+	    {
+	        "category":"American (Traditional)",
+	        "super_category":"Restaurants",
+	        "count":19,
+	        "level":2
+	    },
+	    {
+	        "category":"Argentine",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Asian Fusion",
+	        "super_category":"Restaurants",
+	        "count":14,
+	        "level":2
+	    },
+	    {
+	        "category":"Barbeque",
+	        "super_category":"Restaurants",
+	        "count":12,
+	        "level":2
+	    },
+	    {
+	        "category":"Brazilian",
+	        "super_category":"Restaurants",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "category":"Breakfast & Brunch",
+	        "super_category":"Restaurants",
+	        "count":37,
+	        "level":2
+	    },
+	    {
+	        "category":"Buffets",
+	        "super_category":"Restaurants",
+	        "count":8,
+	        "level":2
+	    },
+	    {
+	        "category":"Burgers",
+	        "super_category":"Restaurants",
+	        "count":28,
+	        "level":2
+	    },
+	    {
+	        "category":"Burmese",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Cafes",
+	        "super_category":"Restaurants",
+	        "count":13,
+	        "level":2
+	    },
+	    {
+	        "category":"Cafeteria",
+	        "super_category":"Restaurants",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Cajun\/Creole",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Caribbean",
+	        "super_category":"Restaurants",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Chicken Shop",
+	        "super_category":"Restaurants",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Chicken Wings",
+	        "super_category":"Restaurants",
+	        "count":11,
+	        "level":2
+	    },
+	    {
+	        "category":"Chinese",
+	        "super_category":"Restaurants",
+	        "count":16,
+	        "level":2
+	    },
+	    {
+	        "category":"Cuban",
+	        "super_category":"Restaurants",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Delis",
+	        "super_category":"Restaurants",
+	        "count":13,
+	        "level":2
+	    },
+	    {
+	        "category":"Diners",
+	        "super_category":"Restaurants",
+	        "count":5,
+	        "level":2
+	    },
+	    {
+	        "category":"Ethiopian",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Fast Food",
+	        "super_category":"Restaurants",
+	        "count":44,
+	        "level":2
+	    },
+	    {
+	        "category":"Fish & Chips",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Food Stands",
+	        "super_category":"Restaurants",
+	        "count":5,
+	        "level":2
+	    },
+	    {
+	        "category":"French",
+	        "super_category":"Restaurants",
+	        "count":5,
+	        "level":2
+	    },
+	    {
+	        "category":"Gastropubs",
+	        "super_category":"Restaurants",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "category":"Gluten-Free",
+	        "super_category":"Restaurants",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "category":"Greek",
+	        "super_category":"Restaurants",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "category":"Halal",
+	        "super_category":"Restaurants",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "category":"Hawaiian",
+	        "super_category":"Restaurants",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "category":"Himalayan\/Nepalese",
+	        "super_category":"Restaurants",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Hot Dogs",
+	        "super_category":"Restaurants",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Indian",
+	        "super_category":"Restaurants",
+	        "count":15,
+	        "level":2
+	    },
+	    {
+	        "category":"Indonesian",
+	        "super_category":"Restaurants",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Irish",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Italian",
+	        "super_category":"Restaurants",
+	        "count":31,
+	        "level":2
+	    },
+	    {
+	        "category":"Japanese",
+	        "super_category":"Restaurants",
+	        "count":23,
+	        "level":2
+	    },
+	    {
+	        "category":"Korean",
+	        "super_category":"Restaurants",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Kosher",
+	        "super_category":"Restaurants",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Latin American",
+	        "super_category":"Restaurants",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "category":"Malaysian",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Mediterranean",
+	        "super_category":"Restaurants",
+	        "count":16,
+	        "level":2
+	    },
+	    {
+	        "category":"Mexican",
+	        "super_category":"Restaurants",
+	        "count":71,
+	        "level":2
+	    },
+	    {
+	        "category":"Middle Eastern",
+	        "super_category":"Restaurants",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Mongolian",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Noodles",
+	        "super_category":"Restaurants",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Pakistani",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Pan Asian",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Persian\/Iranian",
+	        "super_category":"Restaurants",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Peruvian",
+	        "super_category":"Restaurants",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Pizza",
+	        "super_category":"Restaurants",
+	        "count":42,
+	        "level":2
+	    },
+	    {
+	        "category":"Pop-Up Restaurants",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Salad",
+	        "super_category":"Restaurants",
+	        "count":13,
+	        "level":2
+	    },
+	    {
+	        "category":"Sandwiches",
+	        "super_category":"Restaurants",
+	        "count":50,
+	        "level":2
+	    },
+	    {
+	        "category":"Scandinavian",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Seafood",
+	        "super_category":"Restaurants",
+	        "count":17,
+	        "level":2
+	    },
+	    {
+	        "category":"Soul Food",
+	        "super_category":"Restaurants",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Soup",
+	        "super_category":"Restaurants",
+	        "count":6,
+	        "level":2
+	    },
+	    {
+	        "category":"Southern",
+	        "super_category":"Restaurants",
+	        "count":6,
+	        "level":2
+	    },
+	    {
+	        "category":"Spanish",
+	        "super_category":"Restaurants",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Steakhouses",
+	        "super_category":"Restaurants",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "category":"Sushi Bars",
+	        "super_category":"Restaurants",
+	        "count":16,
+	        "level":2
+	    },
+	    {
+	        "category":"Tapas Bars",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Tapas\/Small Plates",
+	        "super_category":"Restaurants",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Tex-Mex",
+	        "super_category":"Restaurants",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Thai",
+	        "super_category":"Restaurants",
+	        "count":12,
+	        "level":2
+	    },
+	    {
+	        "category":"Vegan",
+	        "super_category":"Restaurants",
+	        "count":15,
+	        "level":2
+	    },
+	    {
+	        "category":"Vegetarian",
+	        "super_category":"Restaurants",
+	        "count":8,
+	        "level":2
+	    },
+	    {
+	        "category":"Vietnamese",
+	        "super_category":"Restaurants",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "category":"Waffles",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Wraps",
+	        "super_category":"Restaurants",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Art Galleries",
+	        "super_category":"Shopping",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Fashion",
+	        "super_category":"Shopping",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Home & Garden",
+	        "super_category":"Shopping",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Art Galleries",
+	        "super_category":"Arts & Entertainment",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Jazz & Blues",
+	        "super_category":"Arts & Entertainment",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Museums",
+	        "super_category":"Arts & Entertainment",
+	        "count":6,
+	        "level":2
+	    },
+	    {
+	        "category":"Music Venues",
+	        "super_category":"Arts & Entertainment",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Performing Arts",
+	        "super_category":"Arts & Entertainment",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Sports Bars",
+	        "super_category":"Nightlife",
+	        "count":8,
+	        "level":2
+	    },
+	    {
+	        "category":"Wine Bars",
+	        "super_category":"Nightlife",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "category":"Lounges",
+	        "super_category":"Nightlife",
+	        "count":8,
+	        "level":2
+	    },
+	    {
+	        "category":"Cocktail Bars",
+	        "super_category":"Nightlife",
+	        "count":9,
+	        "level":2
+	    },
+	    {
+	        "category":"Beer Bar",
+	        "super_category":"Nightlife",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "category":"Tacos",
+	        "super_category":"Restaurants",
+	        "count":13,
+	        "level":2
+	    },
+	    {
+	        "category":"Pubs",
+	        "super_category":"Nightlife",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Art Museums",
+	        "super_category":"Arts & Entertainment",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Chocolatiers & Shops",
+	        "super_category":"Food",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Dive Bars",
+	        "super_category":"Nightlife",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Dog Parks",
+	        "super_category":"Active Life",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Hookah Bars",
+	        "super_category":"Nightlife",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Irish Pub",
+	        "super_category":"Nightlife",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Izakaya",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Ramen",
+	        "super_category":"Restaurants",
+	        "count":5,
+	        "level":2
+	    },
+	    {
+	        "category":"Salvadoran",
+	        "super_category":"Restaurants",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "category":"Skate Parks",
+	        "super_category":"Active Life",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "category":"Szechuan",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Food Tours",
+	        "super_category":"Hotels & Travel",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Used, Vintage & Consignment",
+	        "super_category":"Shopping",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Appliances",
+	        "super_category":"Shopping",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Macarons",
+	        "super_category":"Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Nurseries & Gardening",
+	        "super_category":"Shopping",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Meat Shops",
+	        "super_category":"Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "category":"Egyptian",
+	        "super_category":"Restaurants",
+	        "count":1,
+	        "level":2
+	    }
+	],
+	"links": [
+	    {
+	        "source":"American (New)",
+	        "target":"Burgers",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Southern",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Sports Bars",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Salad",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Sandwiches",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Italian",
+	        "target":"Wine Bars",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Gastropubs",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"Mexican",
+	        "target":"Seafood",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"Indonesian",
+	        "target":"Malaysian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Korean",
+	        "target":"Lounges",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bars",
+	        "target":"French",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Coffee & Tea",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Breakfast & Brunch",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Juice Bars & Smoothies",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Tapas\/Small Plates",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Barbeque",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Indian",
+	        "target":"Vegetarian",
+	        "count":6,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Breweries",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Diners",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Himalayan\/Nepalese",
+	        "target":"Indian",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"French",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Noodles",
+	        "target":"Thai",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Desserts",
+	        "target":"Ice Cream & Frozen Yogurt",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Pizza",
+	        "target":"Salad",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Italian",
+	        "target":"Pizza",
+	        "count":18,
+	        "level":2
+	    },
+	    {
+	        "source":"Hiking",
+	        "target":"Parks",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Thai",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"Desserts",
+	        "target":"Sandwiches",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Japanese",
+	        "target":"Sushi Bars",
+	        "count":11,
+	        "level":2
+	    },
+	    {
+	        "source":"Cocktail Bars",
+	        "target":"Karaoke",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Barbers",
+	        "target":"Cocktail Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Barbeque",
+	        "target":"Smokehouse",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Brazilian",
+	        "target":"Pizza",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Brazilian",
+	        "target":"Italian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Delis",
+	        "target":"Grocery",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Desserts",
+	        "count":6,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Coffee & Tea",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Diners",
+	        "count":5,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Trucks",
+	        "target":"Ice Cream & Frozen Yogurt",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Argentine",
+	        "target":"Empanadas",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cafes",
+	        "target":"Coffee & Tea",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Japanese",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer Bar",
+	        "target":"Seafood",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Vietnamese",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Brazilian",
+	        "target":"Buffets",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Sandwiches",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Italian",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Mexican",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Delivery Services",
+	        "target":"Sushi Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Italian",
+	        "target":"Salad",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Mexican",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Burgers",
+	        "target":"Fast Food",
+	        "count":14,
+	        "level":2
+	    },
+	    {
+	        "source":"Soup",
+	        "target":"Thai",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Pizza",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Burmese",
+	        "target":"Indian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Halal",
+	        "target":"Pizza",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Pizza",
+	        "target":"Sports Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Desserts",
+	        "target":"Mediterranean",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Breakfast & Brunch",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Peruvian",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Seafood",
+	        "target":"Tacos",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Cuban",
+	        "target":"Spanish",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bubble Tea",
+	        "target":"Coffee & Tea",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Latin American",
+	        "target":"Mexican",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Grocery",
+	        "target":"Italian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Japanese",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Poke",
+	        "target":"Seafood",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Caribbean",
+	        "target":"Latin American",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Italian",
+	        "target":"Spanish",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Halal",
+	        "target":"Indian",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Barbeque",
+	        "target":"Thai",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Cocktail Bars",
+	        "target":"Lounges",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Ice Cream & Frozen Yogurt",
+	        "target":"Sandwiches",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Pubs",
+	        "target":"Sports Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Ramen",
+	        "target":"Soup",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Karaoke",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Seafood",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Cuban",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Coffee & Tea",
+	        "target":"Sandwiches",
+	        "count":6,
+	        "level":2
+	    },
+	    {
+	        "source":"Caribbean",
+	        "target":"Seafood",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Greek",
+	        "target":"Mediterranean",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Diners",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Caribbean",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Pizza",
+	        "target":"Sandwiches",
+	        "count":6,
+	        "level":2
+	    },
+	    {
+	        "source":"Fast Food",
+	        "target":"Pizza",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Ethiopian",
+	        "target":"Jazz & Blues",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chinese",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Pizza",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Steakhouses",
+	        "target":"Venues & Event Spaces",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Italian",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Izakaya",
+	        "target":"Tapas\/Small Plates",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Burgers",
+	        "target":"Pan Asian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cupcakes",
+	        "target":"Macarons",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Kosher",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Chinese",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Shop",
+	        "target":"Chicken Wings",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chinese",
+	        "target":"Japanese",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Fast Food",
+	        "target":"Mexican",
+	        "count":10,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Indian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Salad",
+	        "target":"Vegetarian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Salad",
+	        "target":"Vietnamese",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chinese",
+	        "target":"Hawaiian",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Irish",
+	        "target":"Irish Pub",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Salad",
+	        "target":"Sandwiches",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Delis",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bars",
+	        "target":"Scandinavian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Seafood",
+	        "target":"Steakhouses",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Indonesian",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Buffets",
+	        "target":"Pizza",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Caterers",
+	        "target":"Food Delivery Services",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Bakeries",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bars",
+	        "target":"Karaoke",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chinese",
+	        "target":"Noodles",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cafes",
+	        "target":"Lounges",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cafes",
+	        "target":"Juice Bars & Smoothies",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Custom Cakes",
+	        "target":"Ice Cream & Frozen Yogurt",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"Seafood",
+	        "target":"Southern",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Ramen",
+	        "target":"Sushi Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Barbeque",
+	        "target":"Hawaiian",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Donuts",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Italian",
+	        "target":"Sandwiches",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Buffets",
+	        "target":"Indian",
+	        "count":6,
+	        "level":2
+	    },
+	    {
+	        "source":"Italian",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Burgers",
+	        "target":"Pizza",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Fast Food",
+	        "target":"Sandwiches",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"Poke",
+	        "target":"Ramen",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Dive Bars",
+	        "target":"Music Venues",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Stands",
+	        "target":"Mexican",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Coffee & Tea",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Sandwiches",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Cafes",
+	        "target":"French",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Street Vendors",
+	        "target":"Tacos",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Dance Clubs",
+	        "target":"Latin American",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Trucks",
+	        "target":"Hot Dogs",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Mexican",
+	        "target":"Salvadoran",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Grocery",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Burgers",
+	        "count":5,
+	        "level":2
+	    },
+	    {
+	        "source":"Dive Bars",
+	        "target":"Sports Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chinese",
+	        "target":"Fast Food",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Coffee & Tea",
+	        "target":"Used, Vintage & Consignment",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Fast Food",
+	        "target":"Tex-Mex",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Mediterranean",
+	        "target":"Middle Eastern",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Karaoke",
+	        "target":"Sports Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Mexican",
+	        "target":"Tex-Mex",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Delis",
+	        "target":"Sandwiches",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "source":"Barbeque",
+	        "target":"Burgers",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chinese",
+	        "target":"Juice Bars & Smoothies",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Wings",
+	        "target":"Pizza",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"Fast Food",
+	        "target":"Specialty Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Coffee & Tea",
+	        "target":"Donuts",
+	        "count":5,
+	        "level":2
+	    },
+	    {
+	        "source":"Grocery",
+	        "target":"Middle Eastern",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cajun\/Creole",
+	        "target":"Fast Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Barbeque",
+	        "target":"Chinese",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Trucks",
+	        "target":"Tacos",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bars",
+	        "target":"Beer, Wine & Spirits",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Japanese",
+	        "target":"Poke",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Burgers",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Fast Food",
+	        "target":"Tacos",
+	        "count":6,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Chinese",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer, Wine & Spirits",
+	        "target":"Grocery",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Trucks",
+	        "target":"Mexican",
+	        "count":9,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer Bar",
+	        "target":"Pizza",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chocolatiers & Shops",
+	        "target":"Food Tours",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Fast Food",
+	        "target":"Hot Dogs",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Poke",
+	        "target":"Sushi Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Salad",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Caterers",
+	        "target":"Desserts",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer, Wine & Spirits",
+	        "target":"Convenience Stores",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Mexican",
+	        "target":"Southern",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Desserts",
+	        "target":"Food Trucks",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Trucks",
+	        "target":"Italian",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Mexican",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bagels",
+	        "target":"Caterers",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Salad",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Coffee & Tea",
+	        "target":"Tea Rooms",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Coffee & Tea",
+	        "target":"Convenience Stores",
+	        "count":9,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Salad",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Gluten-Free",
+	        "target":"Ice Cream & Frozen Yogurt",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Chocolatiers & Shops",
+	        "target":"Coffee & Tea",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Burgers",
+	        "target":"Pop-Up Restaurants",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Halal",
+	        "target":"Mediterranean",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Lounges",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Trucks",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Gluten-Free",
+	        "target":"Vegan",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Bubble Tea",
+	        "target":"Desserts",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Appliances",
+	        "target":"Coffee & Tea",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Parks",
+	        "target":"Playgrounds",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Mediterranean",
+	        "target":"Persian\/Iranian",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Bagels",
+	        "target":"Coffee & Tea",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Desserts",
+	        "target":"Thai",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Delis",
+	        "target":"Fast Food",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"Cafes",
+	        "target":"Music Venues",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Beer, Wine & Spirits",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Stands",
+	        "target":"Sandwiches",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Food Trucks",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Desserts",
+	        "target":"Food Delivery Services",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Desserts",
+	        "target":"Shaved Ice",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Sandwiches",
+	        "target":"Street Vendors",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Caterers",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Barbeque",
+	        "target":"Southern",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Art Galleries",
+	        "target":"Art Museums",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Caterers",
+	        "target":"Mexican",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cupcakes",
+	        "target":"Desserts",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Trucks",
+	        "target":"Seafood",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Cafes",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Skate Parks",
+	        "target":"Specialty Schools",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Soul Food",
+	        "target":"Southern",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Pizza",
+	        "target":"Vegan",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Halal",
+	        "target":"Indonesian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Wings",
+	        "target":"Lounges",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Beer Bar",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Barbeque",
+	        "target":"Breakfast & Brunch",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Indian",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bars",
+	        "target":"Pizza",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Sandwiches",
+	        "count":7,
+	        "level":2
+	    },
+	    {
+	        "source":"Japanese",
+	        "target":"Seafood",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Karaoke",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Brazilian",
+	        "target":"Sandwiches",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Grocery",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Custom Cakes",
+	        "target":"Desserts",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"Burgers",
+	        "target":"Coffee & Tea",
+	        "count":4,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Cocktail Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Sushi Bars",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Seafood",
+	        "target":"Sports Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"French",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Burgers",
+	        "target":"Diners",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Cocktail Bars",
+	        "target":"Mexican",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Italian",
+	        "target":"Soup",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bars",
+	        "target":"Italian",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Burmese",
+	        "target":"Halal",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Persian\/Iranian",
+	        "target":"Pizza",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Mediterranean",
+	        "target":"Sandwiches",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Cafes",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Fish & Chips",
+	        "target":"Seafood",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cuban",
+	        "target":"Latin American",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Gluten-Free",
+	        "target":"Japanese",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Spanish",
+	        "target":"Venues & Event Spaces",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Tapas Bars",
+	        "target":"Wine Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Lounges",
+	        "target":"Pizza",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Ice Cream & Frozen Yogurt",
+	        "target":"Juice Bars & Smoothies",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Gastropubs",
+	        "target":"Karaoke",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Steakhouses",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Ethiopian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Mexican",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Chinese",
+	        "target":"Vegetarian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cocktail Bars",
+	        "target":"Italian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer Bar",
+	        "target":"Izakaya",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Buffets",
+	        "target":"Vegetarian",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Wings",
+	        "target":"Pan Asian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cupcakes",
+	        "target":"Custom Cakes",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer, Wine & Spirits",
+	        "target":"Thai",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bubble Tea",
+	        "target":"Chinese",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Shop",
+	        "target":"Southern",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chinese",
+	        "target":"Seafood",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Indian",
+	        "target":"Pakistani",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Hawaiian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Sandwiches",
+	        "target":"Soup",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Mediterranean",
+	        "target":"Scandinavian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Salad",
+	        "target":"Seafood",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Hawaiian",
+	        "target":"Poke",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Delivery Services",
+	        "target":"Mediterranean",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Coffee & Tea",
+	        "target":"Fast Food",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Seafood",
+	        "target":"Soul Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bubble Tea",
+	        "target":"Juice Bars & Smoothies",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Egyptian",
+	        "target":"Greek",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Juice Bars & Smoothies",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Trucks",
+	        "target":"Sandwiches",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Mediterranean",
+	        "target":"Wraps",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Gluten-Free",
+	        "target":"Pizza",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cocktail Bars",
+	        "target":"French",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Sushi Bars",
+	        "target":"Tapas\/Small Plates",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Soup",
+	        "target":"Sushi Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Caterers",
+	        "target":"Hot Dogs",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Mexican",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Grocery",
+	        "target":"Mexican",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Burgers",
+	        "target":"Sandwiches",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Coffee & Tea",
+	        "target":"Nurseries & Gardening",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cupcakes",
+	        "target":"Ice Cream & Frozen Yogurt",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Karaoke",
+	        "target":"Pool Halls",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Delis",
+	        "target":"Meat Shops",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Wings",
+	        "target":"Specialty Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bagels",
+	        "target":"Donuts",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Grocery",
+	        "target":"Halal",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cajun\/Creole",
+	        "target":"Chicken Shop",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Burgers",
+	        "target":"Chicken Wings",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Burgers",
+	        "target":"Tacos",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer, Wine & Spirits",
+	        "target":"Coffee & Tea",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Donuts",
+	        "target":"Sandwiches",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Chocolatiers & Shops",
+	        "target":"Ice Cream & Frozen Yogurt",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Vegan",
+	        "target":"Wraps",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer, Wine & Spirits",
+	        "target":"Delis",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cafes",
+	        "target":"Chocolatiers & Shops",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Caterers",
+	        "target":"Food Trucks",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Ice Cream & Frozen Yogurt",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Coffee & Tea",
+	        "target":"Desserts",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Coffee & Tea",
+	        "target":"Juice Bars & Smoothies",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Caterers",
+	        "target":"Coffee & Tea",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Desserts",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cafes",
+	        "target":"Mediterranean",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Caterers",
+	        "target":"Street Vendors",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Desserts",
+	        "target":"Shaved Snow",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Barbeque",
+	        "target":"Soul Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Food Delivery Services",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cafes",
+	        "target":"Sandwiches",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Burgers",
+	        "target":"Gastropubs",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Soul Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Pizza",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Lounges",
+	        "target":"Sports Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bars",
+	        "target":"Gastropubs",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Salvadoran",
+	        "target":"Seafood",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Halal",
+	        "target":"Malaysian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Wings",
+	        "target":"Korean",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bars",
+	        "target":"Breakfast & Brunch",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer Bar",
+	        "target":"Breakfast & Brunch",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (New)",
+	        "target":"Juice Bars & Smoothies",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Tapas\/Small Plates",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Breakfast & Brunch",
+	        "count":3,
+	        "level":2
+	    },
+	    {
+	        "source":"Breweries",
+	        "target":"Pizza",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Vegan",
+	        "target":"Vegetarian",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Barbeque",
+	        "target":"Noodles",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Fast Food",
+	        "target":"Salad",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Thai",
+	        "target":"Vietnamese",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Desserts",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Seafood",
+	        "target":"Sushi Bars",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Cocktail Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Smokehouse",
+	        "target":"Southern",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Delis",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bakeries",
+	        "target":"Custom Cakes",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Cocktail Bars",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer Bar",
+	        "target":"Sports Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Indonesian",
+	        "target":"Vietnamese",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"French",
+	        "target":"Sandwiches",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Salad",
+	        "target":"Soup",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Food Trucks",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Soup",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Halal",
+	        "target":"Persian\/Iranian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Italian",
+	        "target":"Sports Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Burgers",
+	        "target":"Sports Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Fish & Chips",
+	        "target":"Tacos",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Latin American",
+	        "target":"Spanish",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Delis",
+	        "target":"Italian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Noodles",
+	        "target":"Soup",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Poke",
+	        "target":"Tacos",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Italian",
+	        "target":"Venues & Event Spaces",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Buffets",
+	        "target":"Halal",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Italian",
+	        "target":"Tapas Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cocktail Bars",
+	        "target":"Pizza",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Juice Bars & Smoothies",
+	        "target":"Sandwiches",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cuban",
+	        "target":"Peruvian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Jazz & Blues",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer Bar",
+	        "target":"Tapas\/Small Plates",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Custom Cakes",
+	        "target":"Macarons",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Kosher",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Beer, Wine & Spirits",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Bubble Tea",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Wings",
+	        "target":"Southern",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Halal",
+	        "target":"Pakistani",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Asian Fusion",
+	        "target":"Salad",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bars",
+	        "target":"Mediterranean",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Salad",
+	        "target":"Steakhouses",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Hawaiian",
+	        "target":"Seafood",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Caterers",
+	        "target":"Mediterranean",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Egyptian",
+	        "target":"Mediterranean",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Donuts",
+	        "target":"Juice Bars & Smoothies",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Greek",
+	        "target":"Wraps",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Gluten-Free",
+	        "target":"Italian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cafes",
+	        "target":"Cocktail Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Japanese",
+	        "target":"Tapas\/Small Plates",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Japanese",
+	        "target":"Soup",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Salvadoran",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Nurseries & Gardening",
+	        "target":"Used, Vintage & Consignment",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Middle Eastern",
+	        "target":"Persian\/Iranian",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Pool Halls",
+	        "target":"Sports Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Meat Shops",
+	        "target":"Sandwiches",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Wings",
+	        "target":"Sandwiches",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Wings",
+	        "target":"Fast Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Wings",
+	        "target":"Italian",
+	        "count":2,
+	        "level":2
+	    },
+	    {
+	        "source":"Breakfast & Brunch",
+	        "target":"Kosher",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Halal",
+	        "target":"Middle Eastern",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Chicken Shop",
+	        "target":"Fast Food",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bars",
+	        "target":"Grocery",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Hawaiian",
+	        "target":"Japanese",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"American (Traditional)",
+	        "target":"Chicken Wings",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Coffee & Tea",
+	        "target":"Grocery",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Beer Bar",
+	        "target":"Sandwiches",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Food Tours",
+	        "target":"Ice Cream & Frozen Yogurt",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Salad",
+	        "target":"Wraps",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Convenience Stores",
+	        "target":"Delis",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Italian",
+	        "target":"Mexican",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Pizza",
+	        "target":"Wine Bars",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Caterers",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Bagels",
+	        "target":"Juice Bars & Smoothies",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Cafes",
+	        "target":"Caterers",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Thai",
+	        "target":"Vegan",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Mediterranean",
+	        "target":"Music Venues",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Caterers",
+	        "target":"Tacos",
+	        "count":1,
+	        "level":2
+	    },
+	    {
+	        "source":"Shaved Ice",
+	        "target":"Shaved Snow",
+	        "count":1,
+	        "level":2
+	    }
+	]
+}

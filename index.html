@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Yelping in Culver City</title>
+	<link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div id="container">
+		<!-- header -->
+		<div id="header">
+			<h1>Yelping in Culver City in 2019</h1>
+			<img src="img/cities.png">
+
+			<p>I started working in Culver City in 2019. Good-bye, suburbs! Culver City was a really exciting place. I loved walking in the neighborhoods along Culver Blvd or through downtown before, during, and after work. It didn't even bother me that I would drive towards work on the weekends. There were Tuesday-afternoon farmers markets, cute boutique shops, trendy restaurants, and occassionally live sets (perks of working right next to Sony).</p>
+			
+			<p>And then... we relocated!!! ;A; Our office moved to the other side of the 10 freeway which no longer had the same happy-go-lucky feel. If Culver City downtown were Disneyland, then our new place felt like the residential area of Anaheim a block away from the parks. It isn't that bad, but you get the downsides of traffic and crowds while not being included in the exciting part.</p>
+
+			<p>And then... the world went on panic mode due to the virus. Everything felt like they shut down, or I just stopped visiting. I'm still in my room with no sense of time, learning d3 (which I keep telling myself to do), and reflecting back on the fond memories of how life had previously been when I took my first step into the LA city life. </p>
+			<br>
+		</div>
+		
+		<!-- content -->
+	  	<div id="body">
+	  		<!-- Is Culver City Yelp-friendly? -->
+	  		<h2>Is Culver City Yelp-friendly?</h2>
+	  		<div class="text-container">
+	  			<p><span class="emphasis">YES!</span></p>
+
+	  			<p>Using the Yelp Business Search API, I got 553 listings (probably an understatement to the number of local businesses) with 161,459 reviews. One location - Father's Office in Downtown Culver - had as many as 5,986 reviews. </p>
+
+	  			<p>3.5 stars? No sweat. That's what most businesses that are likely high-traffic or chains get these days, although I like to bias towards 4s and 5s. Maybe as I become more LA-like I'll raise my expectations...</p>
+	  			<table style="width:400px;align-content: center;">
+		  			<tr>
+		  				<td><img src="img/reviews_red.png" style="height:40px;"></td>
+		  				<td><h3 style="text-align: left">161,459 reviews</h1></td>
+		  				<td><img src="img/gps_red.png" style="height:40px; fill:#d42422;"></td>
+		  				<td><h3 style="text-align: left">553 businesses</h1></td>
+		  			</tr>
+		  		</table>
+		  		<table style="width:350px;align-content: center;">
+		  			<tr>
+		  				<td><img id="yelp-rating" src="img/extra_large_3_half.png"></td>
+		  				<td><h3 style="text-align: left">average rating</h1></td>
+		  			</tr>
+		  		</table>
+
+	  		</div>
+	  		<br>
+	  		
+	  		
+	  		<!-- What do people do in culver city? -->
+  			<h2>What do people do in Culver City?</h2>
+  			<div class="text-container">
+
+				<p><span class="emphasis">How to Read:</span> Each circle represents a distinct category. A business can have up to 3 categories. The size of a circle indicates the number of businesses belonging to that category. Links exist when a business shares both those linked categories. The width of the link represents the similarity between categories.</p>
+
+				<p>Obviously, Culver City has an overwhelming number of Coffee and Tea shops. Many of my coworkers had an <strong>addiction</strong> to the one downstairs. I actually didn't know that there were so many Mexican restaurants in the area, and a lot of them are associated with Fast Food and Food Trucks. The Italian/Pizza scene is on point (although I only tried Pasta Sisters and Roberta's).
+
+				<p>Drag the circles to explore their similarities.</p>
+			</div>
+			<div id="chart-businesses">
+				<div id="tooltip" class="hidden">
+					<p><strong id="name">Important Label Heading</strong></p>
+					<p><span id="value">100</span> Businesses</p>
+				</div>
+			</div><br>
+
+			<!-- What do people think of Culver City? -->
+			<h2>What do people think of Culver City?</h2>
+			<div class="text-container">
+				<p>The graph below gives the overall distribution from my Culver City dataset. Type in a specific category to see its own distribution. Leave the search blank to view the overall distribution.</p>
+				<form autocomplete="off">
+					<label for="categoryInput"><span class="emphasis" style="font-size: 14px;">Search for a category   </span></label>
+  					<span class="autocomplete"><input type="text" id="categoryInput"></span>
+  					<button id="button" type="button">GO!</button>
+				</form>
+				<br>
+			</div>
+			<div id="chart-ratings">
+				
+			</div>
+	  <!-- footer -->
+	  	<div id="footer">
+			<p style="line-height: 5px;"><span style="font-weight: 600;">Created by <span class="emphasis">Sarina Chen</span></span> | April 2020</p>
+			<p>Data taken from Yelp Fusion API</p>
+		</div>
+	</div>
+	<script src="https://d3js.org/d3.v6.min.js"></script>
+	<script type="module" src="js/main.js"></script>
+</body>
+</html>

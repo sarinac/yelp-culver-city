@@ -1,0 +1,146 @@
+﻿category,super_category,count,level
+Hiking,Active Life,2,2
+Parks,Active Life,21,2
+Playgrounds,Active Life,1,2
+Barbers,Beauty & Spas,1,2
+Specialty Schools,Education,1,2
+Caterers,Event Planning & Services,11,2
+Venues & Event Spaces,Event Planning & Services,2,2
+Bagels,Food,4,2
+Bakeries,Food,31,2
+"Beer, Wine & Spirits",Food,5,2
+Breweries,Food,1,2
+Bubble Tea,Food,4,2
+Coffee & Tea,Food,69,2
+Convenience Stores,Food,10,2
+Cupcakes,Food,3,2
+Custom Cakes,Food,7,2
+Desserts,Food,26,2
+Donuts,Food,8,2
+Empanadas,Food,1,2
+Food Delivery Services,Food,4,2
+Food Trucks,Food,16,2
+Grocery,Food,7,2
+Ice Cream & Frozen Yogurt,Food,14,2
+Juice Bars & Smoothies,Food,7,2
+Poke,Food,5,2
+Shaved Ice,Food,1,2
+Shaved Snow,Food,1,2
+Smokehouse,Food,1,2
+Specialty Food,Food,5,2
+Street Vendors,Food,7,2
+Tea Rooms,Food,2,2
+Tours,Hotels & Travel,1,2
+Public Art,Local Flavor,1,2
+Yelp Events,Local Flavor,1,2
+Bars,Nightlife,49,2
+Dance Clubs,Nightlife,1,2
+Jazz & Blues,Nightlife,1,2
+Karaoke,Nightlife,4,2
+Music Venues,Nightlife,2,2
+Pool Halls,Nightlife,1,2
+Landmarks & Historical Buildings,Public Services & Government,2,2
+American (New),Restaurants,26,2
+American (Traditional),Restaurants,19,2
+Argentine,Restaurants,1,2
+Asian Fusion,Restaurants,14,2
+Barbeque,Restaurants,12,2
+Brazilian,Restaurants,4,2
+Breakfast & Brunch,Restaurants,37,2
+Buffets,Restaurants,8,2
+Burgers,Restaurants,28,2
+Burmese,Restaurants,1,2
+Cafes,Restaurants,13,2
+Cafeteria,Restaurants,2,2
+Cajun/Creole,Restaurants,1,2
+Caribbean,Restaurants,3,2
+Chicken Shop,Restaurants,2,2
+Chicken Wings,Restaurants,11,2
+Chinese,Restaurants,16,2
+Cuban,Restaurants,3,2
+Delis,Restaurants,13,2
+Diners,Restaurants,5,2
+Ethiopian,Restaurants,1,2
+Fast Food,Restaurants,44,2
+Fish & Chips,Restaurants,1,2
+Food Stands,Restaurants,5,2
+French,Restaurants,5,2
+Gastropubs,Restaurants,4,2
+Gluten-Free,Restaurants,4,2
+Greek,Restaurants,4,2
+Halal,Restaurants,7,2
+Hawaiian,Restaurants,7,2
+Himalayan/Nepalese,Restaurants,2,2
+Hot Dogs,Restaurants,2,2
+Indian,Restaurants,15,2
+Indonesian,Restaurants,3,2
+Irish,Restaurants,1,2
+Italian,Restaurants,31,2
+Japanese,Restaurants,23,2
+Korean,Restaurants,3,2
+Kosher,Restaurants,2,2
+Latin American,Restaurants,7,2
+Malaysian,Restaurants,1,2
+Mediterranean,Restaurants,16,2
+Mexican,Restaurants,71,2
+Middle Eastern,Restaurants,3,2
+Mongolian,Restaurants,1,2
+Noodles,Restaurants,3,2
+Pakistani,Restaurants,1,2
+Pan Asian,Restaurants,1,2
+Persian/Iranian,Restaurants,3,2
+Peruvian,Restaurants,2,2
+Pizza,Restaurants,42,2
+Pop-Up Restaurants,Restaurants,1,2
+Salad,Restaurants,13,2
+Sandwiches,Restaurants,50,2
+Scandinavian,Restaurants,1,2
+Seafood,Restaurants,17,2
+Soul Food,Restaurants,3,2
+Soup,Restaurants,6,2
+Southern,Restaurants,6,2
+Spanish,Restaurants,2,2
+Steakhouses,Restaurants,4,2
+Sushi Bars,Restaurants,16,2
+Tapas Bars,Restaurants,1,2
+Tapas/Small Plates,Restaurants,3,2
+Tex-Mex,Restaurants,3,2
+Thai,Restaurants,12,2
+Vegan,Restaurants,15,2
+Vegetarian,Restaurants,8,2
+Vietnamese,Restaurants,7,2
+Waffles,Restaurants,1,2
+Wraps,Restaurants,2,2
+Art Galleries,Shopping,2,2
+Fashion,Shopping,1,2
+Home & Garden,Shopping,2,2
+Art Galleries,Arts & Entertainment,2,2
+Jazz & Blues,Arts & Entertainment,1,2
+Museums,Arts & Entertainment,6,2
+Music Venues,Arts & Entertainment,2,2
+Performing Arts,Arts & Entertainment,1,2
+Sports Bars,Nightlife,8,2
+Wine Bars,Nightlife,4,2
+Lounges,Nightlife,8,2
+Cocktail Bars,Nightlife,9,2
+Beer Bar,Nightlife,4,2
+Tacos,Restaurants,13,2
+Pubs,Nightlife,1,2
+Art Museums,Arts & Entertainment,2,2
+Chocolatiers & Shops,Food,2,2
+Dive Bars,Nightlife,3,2
+Dog Parks,Active Life,1,2
+Hookah Bars,Nightlife,2,2
+Irish Pub,Nightlife,2,2
+Izakaya,Restaurants,1,2
+Ramen,Restaurants,5,2
+Salvadoran,Restaurants,3,2
+Skate Parks,Active Life,2,2
+Szechuan,Restaurants,1,2
+Food Tours,Hotels & Travel,1,2
+"Used, Vintage & Consignment",Shopping,1,2
+Appliances,Shopping,1,2
+Macarons,Food,1,2
+Nurseries & Gardening,Shopping,1,2
+Meat Shops,Food,1,2
+Egyptian,Restaurants,1,2

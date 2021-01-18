@@ -1,0 +1,402 @@
+﻿source,target,count,level
+American (New),Burgers,2,2
+American (New),Southern,1,2
+Breakfast & Brunch,Vegan,1,2
+American (New),Sports Bars,2,2
+American (New),Salad,2,2
+American (Traditional),Sandwiches,2,2
+Italian,Wine Bars,4,2
+American (New),Gastropubs,4,2
+Mexican,Seafood,4,2
+Indonesian,Malaysian,1,2
+Korean,Lounges,1,2
+Bars,French,1,2
+American (New),Coffee & Tea,1,2
+American (New),Breakfast & Brunch,7,2
+Breakfast & Brunch,Juice Bars & Smoothies,1,2
+American (New),Tapas/Small Plates,1,2
+American (Traditional),Barbeque,2,2
+Indian,Vegetarian,6,2
+American (New),Breweries,1,2
+American (New),Diners,1,2
+Himalayan/Nepalese,Indian,2,2
+Breakfast & Brunch,French,2,2
+Noodles,Thai,2,2
+Desserts,Ice Cream & Frozen Yogurt,3,2
+Pizza,Salad,2,2
+Italian,Pizza,18,2
+Hiking,Parks,2,2
+Asian Fusion,Thai,4,2
+Desserts,Sandwiches,2,2
+Japanese,Sushi Bars,11,2
+Cocktail Bars,Karaoke,1,2
+Barbers,Cocktail Bars,1,2
+Barbeque,Smokehouse,1,2
+Brazilian,Pizza,1,2
+Brazilian,Italian,1,2
+Delis,Grocery,3,2
+Bakeries,Desserts,6,2
+Breakfast & Brunch,Coffee & Tea,7,2
+Breakfast & Brunch,Diners,5,2
+Food Trucks,Ice Cream & Frozen Yogurt,1,2
+Argentine,Empanadas,1,2
+Cafes,Coffee & Tea,3,2
+Asian Fusion,Japanese,2,2
+Beer Bar,Seafood,1,2
+Asian Fusion,Vietnamese,3,2
+Brazilian,Buffets,1,2
+Bakeries,Sandwiches,2,2
+American (New),Italian,2,2
+Breakfast & Brunch,Mexican,3,2
+Food Delivery Services,Sushi Bars,1,2
+Italian,Salad,1,2
+Asian Fusion,Mexican,1,2
+Burgers,Fast Food,14,2
+Soup,Thai,2,2
+Bakeries,Pizza,1,2
+Burmese,Indian,1,2
+Halal,Pizza,1,2
+Pizza,Sports Bars,1,2
+Desserts,Mediterranean,1,2
+Bakeries,Breakfast & Brunch,4,2
+Bakeries,Peruvian,2,2
+Seafood,Tacos,3,2
+Cuban,Spanish,1,2
+Bubble Tea,Coffee & Tea,3,2
+Latin American,Mexican,1,2
+Grocery,Italian,1,2
+Japanese,Vegan,1,2
+Poke,Seafood,2,2
+Caribbean,Latin American,1,2
+Italian,Spanish,1,2
+Halal,Indian,3,2
+Barbeque,Thai,2,2
+Cocktail Bars,Lounges,3,2
+Ice Cream & Frozen Yogurt,Sandwiches,1,2
+Pubs,Sports Bars,1,2
+Ramen,Soup,1,2
+American (New),Karaoke,1,2
+American (Traditional),Seafood,2,2
+Bakeries,Cuban,1,2
+Coffee & Tea,Sandwiches,6,2
+Caribbean,Seafood,1,2
+Greek,Mediterranean,4,2
+American (Traditional),Diners,1,2
+Breakfast & Brunch,Caribbean,1,2
+Pizza,Sandwiches,6,2
+Fast Food,Pizza,3,2
+Ethiopian,Jazz & Blues,1,2
+Chinese,Vegan,1,2
+American (New),Pizza,3,2
+Steakhouses,Venues & Event Spaces,1,2
+Breakfast & Brunch,Italian,2,2
+Izakaya,Tapas/Small Plates,1,2
+Burgers,Pan Asian,1,2
+Cupcakes,Macarons,1,2
+Bakeries,Kosher,2,2
+Breakfast & Brunch,Chinese,1,2
+Chicken Shop,Chicken Wings,1,2
+Chinese,Japanese,1,2
+Fast Food,Mexican,10,2
+American (Traditional),Indian,1,2
+Salad,Vegetarian,1,2
+Salad,Vietnamese,1,2
+Chinese,Hawaiian,2,2
+Irish,Irish Pub,1,2
+Salad,Sandwiches,4,2
+American (Traditional),Delis,1,2
+Bars,Scandinavian,1,2
+Seafood,Steakhouses,3,2
+Asian Fusion,Indonesian,2,2
+Buffets,Pizza,1,2
+Caterers,Food Delivery Services,1,2
+American (Traditional),Bakeries,1,2
+Bars,Karaoke,1,2
+Chinese,Noodles,1,2
+Cafes,Lounges,1,2
+Cafes,Juice Bars & Smoothies,1,2
+Custom Cakes,Ice Cream & Frozen Yogurt,4,2
+Seafood,Southern,1,2
+Ramen,Sushi Bars,1,2
+Barbeque,Hawaiian,3,2
+Bakeries,Donuts,3,2
+Italian,Sandwiches,3,2
+Buffets,Indian,6,2
+Italian,Vegan,1,2
+Burgers,Pizza,1,2
+Fast Food,Sandwiches,4,2
+Poke,Ramen,1,2
+Dive Bars,Music Venues,1,2
+Food Stands,Mexican,1,2
+Bakeries,Coffee & Tea,3,2
+American (New),Sandwiches,2,2
+Cafes,French,1,2
+Street Vendors,Tacos,3,2
+Dance Clubs,Latin American,1,2
+Food Trucks,Hot Dogs,1,2
+Mexican,Salvadoran,2,2
+Bakeries,Grocery,1,2
+Breakfast & Brunch,Burgers,5,2
+Dive Bars,Sports Bars,1,2
+Chinese,Fast Food,3,2
+Coffee & Tea,"Used, Vintage & Consignment",1,2
+Fast Food,Tex-Mex,2,2
+Mediterranean,Middle Eastern,1,2
+Karaoke,Sports Bars,1,2
+Mexican,Tex-Mex,2,2
+Delis,Sandwiches,7,2
+Barbeque,Burgers,1,2
+American (Traditional),Vegan,1,2
+Chinese,Juice Bars & Smoothies,1,2
+Chicken Wings,Pizza,4,2
+Fast Food,Specialty Food,1,2
+Coffee & Tea,Donuts,5,2
+Grocery,Middle Eastern,1,2
+Cajun/Creole,Fast Food,1,2
+Barbeque,Chinese,1,2
+Food Trucks,Tacos,1,2
+Bars,"Beer, Wine & Spirits",1,2
+Japanese,Poke,1,2
+American (Traditional),Burgers,1,2
+Fast Food,Tacos,6,2
+Asian Fusion,Chinese,2,2
+"Beer, Wine & Spirits",Grocery,2,2
+Food Trucks,Mexican,9,2
+Beer Bar,Pizza,1,2
+Chocolatiers & Shops,Food Tours,1,2
+Fast Food,Hot Dogs,1,2
+Poke,Sushi Bars,1,2
+Salad,Vegan,1,2
+Caterers,Desserts,1,2
+"Beer, Wine & Spirits",Convenience Stores,1,2
+Mexican,Southern,1,2
+Desserts,Food Trucks,1,2
+Food Trucks,Italian,2,2
+Mexican,Vegan,1,2
+Bagels,Caterers,1,2
+Breakfast & Brunch,Salad,1,2
+Coffee & Tea,Tea Rooms,2,2
+Coffee & Tea,Convenience Stores,9,2
+American (Traditional),Salad,2,2
+Gluten-Free,Ice Cream & Frozen Yogurt,2,2
+Chocolatiers & Shops,Coffee & Tea,1,2
+Burgers,Pop-Up Restaurants,1,2
+Halal,Mediterranean,1,2
+American (New),Lounges,2,2
+Food Trucks,Vegan,1,2
+Gluten-Free,Vegan,2,2
+Bubble Tea,Desserts,1,2
+Appliances,Coffee & Tea,1,2
+Parks,Playgrounds,1,2
+Mediterranean,Persian/Iranian,2,2
+Bagels,Coffee & Tea,2,2
+Desserts,Thai,1,2
+Delis,Fast Food,4,2
+Cafes,Music Venues,1,2
+Bakeries,"Beer, Wine & Spirits",1,2
+Food Stands,Sandwiches,1,2
+American (New),Food Trucks,1,2
+Desserts,Food Delivery Services,2,2
+Desserts,Shaved Ice,1,2
+Sandwiches,Street Vendors,1,2
+Bakeries,Caterers,2,2
+Barbeque,Southern,2,2
+Art Galleries,Art Museums,1,2
+Caterers,Mexican,1,2
+Cupcakes,Desserts,1,2
+Food Trucks,Seafood,2,2
+Breakfast & Brunch,Cafes,3,2
+Skate Parks,Specialty Schools,1,2
+Soul Food,Southern,3,2
+Pizza,Vegan,2,2
+American (New),Bars,1,2
+Halal,Indonesian,1,2
+Chicken Wings,Lounges,1,2
+American (New),Beer Bar,1,2
+Barbeque,Breakfast & Brunch,1,2
+Indian,Vegan,1,2
+Bars,Pizza,3,2
+Breakfast & Brunch,Sandwiches,7,2
+Japanese,Seafood,3,2
+American (Traditional),Karaoke,1,2
+Brazilian,Sandwiches,1,2
+Breakfast & Brunch,Grocery,1,2
+Custom Cakes,Desserts,4,2
+Burgers,Coffee & Tea,4,2
+American (New),Cocktail Bars,1,2
+Asian Fusion,Sushi Bars,2,2
+Seafood,Sports Bars,1,2
+Bakeries,French,1,2
+Burgers,Diners,2,2
+Cocktail Bars,Mexican,1,2
+Italian,Soup,1,2
+Bars,Italian,3,2
+Burmese,Halal,1,2
+Persian/Iranian,Pizza,1,2
+Mediterranean,Sandwiches,1,2
+Bakeries,Cafes,1,2
+Fish & Chips,Seafood,1,2
+Cuban,Latin American,1,2
+Gluten-Free,Japanese,1,2
+Spanish,Venues & Event Spaces,1,2
+Tapas Bars,Wine Bars,1,2
+Lounges,Pizza,1,2
+Ice Cream & Frozen Yogurt,Juice Bars & Smoothies,1,2
+Gastropubs,Karaoke,1,2
+American (Traditional),Steakhouses,2,2
+American (Traditional),Ethiopian,1,2
+Bakeries,Mexican,2,2
+Chinese,Vegetarian,1,2
+Cocktail Bars,Italian,1,2
+Beer Bar,Izakaya,1,2
+Buffets,Vegetarian,3,2
+Chicken Wings,Pan Asian,1,2
+Cupcakes,Custom Cakes,3,2
+Bakeries,Vegan,1,2
+"Beer, Wine & Spirits",Thai,1,2
+Bubble Tea,Chinese,1,2
+Chicken Shop,Southern,1,2
+Chinese,Seafood,1,2
+Indian,Pakistani,1,2
+Asian Fusion,Hawaiian,1,2
+Sandwiches,Soup,1,2
+Mediterranean,Scandinavian,1,2
+Salad,Seafood,1,2
+Hawaiian,Poke,2,2
+Food Delivery Services,Mediterranean,1,2
+Coffee & Tea,Fast Food,3,2
+Seafood,Soul Food,1,2
+Bubble Tea,Juice Bars & Smoothies,1,2
+Egyptian,Greek,1,2
+Bakeries,Juice Bars & Smoothies,1,2
+Food Trucks,Sandwiches,1,2
+Mediterranean,Wraps,1,2
+Gluten-Free,Pizza,1,2
+Cocktail Bars,French,1,2
+Sushi Bars,Tapas/Small Plates,1,2
+Soup,Sushi Bars,1,2
+Caterers,Hot Dogs,1,2
+American (Traditional),Mexican,1,2
+Grocery,Mexican,1,2
+Burgers,Sandwiches,3,2
+Coffee & Tea,Nurseries & Gardening,1,2
+Cupcakes,Ice Cream & Frozen Yogurt,1,2
+Karaoke,Pool Halls,1,2
+Delis,Meat Shops,1,2
+Chicken Wings,Specialty Food,1,2
+Bagels,Donuts,1,2
+Grocery,Halal,1,2
+Cajun/Creole,Chicken Shop,1,2
+Burgers,Chicken Wings,2,2
+Burgers,Tacos,2,2
+"Beer, Wine & Spirits",Coffee & Tea,1,2
+Donuts,Sandwiches,2,2
+Chocolatiers & Shops,Ice Cream & Frozen Yogurt,1,2
+Vegan,Wraps,1,2
+"Beer, Wine & Spirits",Delis,1,2
+Cafes,Chocolatiers & Shops,1,2
+Caterers,Food Trucks,2,2
+Ice Cream & Frozen Yogurt,Vegan,1,2
+Coffee & Tea,Desserts,1,2
+Coffee & Tea,Juice Bars & Smoothies,2,2
+Caterers,Coffee & Tea,2,2
+Desserts,Vegan,1,2
+Cafes,Mediterranean,1,2
+Caterers,Street Vendors,1,2
+Desserts,Shaved Snow,1,2
+Barbeque,Soul Food,1,2
+Bakeries,Food Delivery Services,1,2
+Cafes,Sandwiches,1,2
+Burgers,Gastropubs,1,2
+American (New),Soul Food,1,2
+Breakfast & Brunch,Pizza,1,2
+Lounges,Sports Bars,1,2
+Bars,Gastropubs,1,2
+Salvadoran,Seafood,1,2
+Halal,Malaysian,1,2
+Chicken Wings,Korean,1,2
+Bars,Breakfast & Brunch,1,2
+Beer Bar,Breakfast & Brunch,1,2
+American (New),Juice Bars & Smoothies,1,2
+Breakfast & Brunch,Tapas/Small Plates,1,2
+American (Traditional),Breakfast & Brunch,3,2
+Breweries,Pizza,1,2
+Vegan,Vegetarian,2,2
+Barbeque,Noodles,1,2
+Fast Food,Salad,1,2
+Thai,Vietnamese,1,2
+Breakfast & Brunch,Desserts,1,2
+Seafood,Sushi Bars,2,2
+American (Traditional),Cocktail Bars,1,2
+Smokehouse,Southern,1,2
+Breakfast & Brunch,Delis,1,2
+Bakeries,Custom Cakes,1,2
+Breakfast & Brunch,Cocktail Bars,2,2
+Beer Bar,Sports Bars,1,2
+Indonesian,Vietnamese,1,2
+French,Sandwiches,1,2
+Salad,Soup,2,2
+Asian Fusion,Food Trucks,1,2
+Asian Fusion,Soup,1,2
+Halal,Persian/Iranian,1,2
+Italian,Sports Bars,1,2
+Burgers,Sports Bars,1,2
+Fish & Chips,Tacos,1,2
+Latin American,Spanish,1,2
+Delis,Italian,1,2
+Noodles,Soup,1,2
+Poke,Tacos,1,2
+Italian,Venues & Event Spaces,1,2
+Buffets,Halal,1,2
+Italian,Tapas Bars,1,2
+Cocktail Bars,Pizza,2,2
+Juice Bars & Smoothies,Sandwiches,1,2
+Cuban,Peruvian,1,2
+American (Traditional),Jazz & Blues,1,2
+Beer Bar,Tapas/Small Plates,1,2
+Custom Cakes,Macarons,1,2
+Kosher,Vegan,1,2
+Asian Fusion,"Beer, Wine & Spirits",1,2
+Breakfast & Brunch,Bubble Tea,1,2
+Chicken Wings,Southern,1,2
+Halal,Pakistani,1,2
+Asian Fusion,Salad,1,2
+Bars,Mediterranean,1,2
+Salad,Steakhouses,1,2
+Hawaiian,Seafood,1,2
+Caterers,Mediterranean,1,2
+Egyptian,Mediterranean,1,2
+Donuts,Juice Bars & Smoothies,1,2
+Greek,Wraps,1,2
+Gluten-Free,Italian,1,2
+Cafes,Cocktail Bars,1,2
+Japanese,Tapas/Small Plates,1,2
+Japanese,Soup,1,2
+American (Traditional),Salvadoran,1,2
+Nurseries & Gardening,"Used, Vintage & Consignment",1,2
+Middle Eastern,Persian/Iranian,1,2
+Pool Halls,Sports Bars,1,2
+Meat Shops,Sandwiches,1,2
+Chicken Wings,Sandwiches,2,2
+Chicken Wings,Fast Food,1,2
+Chicken Wings,Italian,2,2
+Breakfast & Brunch,Kosher,1,2
+Halal,Middle Eastern,1,2
+Chicken Shop,Fast Food,1,2
+Bars,Grocery,1,2
+Hawaiian,Japanese,1,2
+American (Traditional),Chicken Wings,1,2
+Coffee & Tea,Grocery,1,2
+Beer Bar,Sandwiches,1,2
+Food Tours,Ice Cream & Frozen Yogurt,1,2
+Salad,Wraps,1,2
+Convenience Stores,Delis,1,2
+Italian,Mexican,1,2
+Pizza,Wine Bars,1,2
+Caterers,Vegan,1,2
+Bagels,Juice Bars & Smoothies,1,2
+Cafes,Caterers,1,2
+Thai,Vegan,1,2
+Mediterranean,Music Venues,1,2
+Caterers,Tacos,1,2
+Shaved Ice,Shaved Snow,1,2

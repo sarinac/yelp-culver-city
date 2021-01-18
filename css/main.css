@@ -1,0 +1,214 @@
+@charset "UTF-8";
+
+html {
+    height: 100%;
+}
+
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+body {
+	min-height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f1;
+	font-family: Helvetica, Arial, "sans-serif";
+	background-image: url("../img/star.svg");
+}
+
+h1 {
+	font-size: 36px;
+	margin-bottom: 0px;
+	color: #d42422;
+}
+
+h2 {
+	font-size: 24px;
+	margin-bottom: 0px;
+	color: #5f5f5f;
+}
+
+h3 {
+	font-size: 18.5px;
+	color: #d42422;
+}
+
+p {
+	font-size: 14px;
+	color: #5f5f5f;
+}
+
+hr {
+	color: #5f5f5f;
+	background-color: #5f5f5f;
+	border: none;
+	height: .5px;
+}
+
+table {
+	margin: 0 auto;
+}
+
+.emphasis {
+	font-weight: bold;
+	color: #d42422;
+}
+
+::selection {
+	background: #fcd8d3; 
+}
+
+/* ----------------- Businesses ----------------- */
+
+.link {
+  stroke: #5f5f5f;
+  stroke-opacity: .5;
+}
+
+.node circle {
+    stroke: #5f5f5f;
+    stroke-width: .5px;
+}
+
+.node text {
+    text-anchor: middle;
+	fill: #ffffff;
+	font-size: 10px;
+	/*text-shadow: 0 0 1px #ffffff;*/
+}
+
+.legend-rect {
+	height: 10px;
+	stroke: #ffffff;
+	stroke-width: 2px;
+}
+
+.legend-text {
+	text-anchor: middle;
+	alignment-baseline: central;
+	fill: #5f5f5f;
+	font-size: 9px;
+	font-weight: bold;
+}
+
+/* ----------------- Ratings ----------------- */
+
+.ratings rect {
+	position: absolute;
+	padding: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+
+}
+
+.ratings text {
+	fill: #5f5f5f;
+	font-size: 18px;
+	font-weight: bold;
+	text-anchor: start;
+	alignment-baseline: central;
+}
+
+/* ----------------- Wireframe ----------------- */
+
+.text-container {
+	width: 800px;
+	margin: auto;
+}
+
+#container {
+	width: 1400px;
+	margin: 0px auto;
+	background-color: #ffffff;
+	padding: 20px 100px 20px 100px;
+}
+
+#header {
+	width: 100%;
+}
+
+#body {
+	width: 100%;
+}
+
+#footer {
+	width: 100%;
+	height:40px;
+}
+
+/* ----------------- Tooltip ----------------- */
+
+#tooltip {
+	position: absolute;
+	width: 200px;
+	height: auto;
+	padding: 10px;
+	background-color: #f5f5f1;
+	opacity: .9;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	pointer-events: none
+}
+
+#tooltip.hidden {
+	display: none;
+}
+
+#tooltip p {
+	margin: 0;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+/* ----------------- Search Input ----------------- */
+
+.autocomplete {
+  /*the container must be positioned relative:*/
+  position: relative;
+  display: inline-block;
+}
+
+.autocomplete-items {
+  position: absolute;
+  border: .1px solid #d4d4d4;
+  border-bottom: none;
+  border-top: none;
+  z-index: 99;
+  top: 100%;
+  left: 0;
+  right: 0;
+}
+.autocomplete-items div {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-bottom: .1px solid #d4d4d4;
+  opacity: .9;
+  text-align: left;
+}
+.autocomplete-items div:hover {
+  /*when hovering an item:*/
+  background-color: #fcd8d3;
+}
+.autocomplete-active {
+  /*when navigating through the items using the arrow keys:*/
+  background-color: #fdf5cc !important;
+}
+
+#categoryInput {
+	text-align: left;
+	outline-color: #d42422;
+}
+
+#button {
+	background-color: #d42422;
+	color: #ffffff;
+	outline-color: #d42422;
+}
+
