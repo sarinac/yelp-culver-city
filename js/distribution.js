@@ -45,9 +45,9 @@ class Distribution {
 
     draw() {
         // Define dimensions
-        this.width = 1200;
+        this.width = 400;
         this.height = 400;
-        this.rightMargin = 200;
+        this.rightMargin = 50;
         this.padding = 2.5;
         this.rectRadius = 5;
         this.rectPadding = 10;
@@ -82,11 +82,6 @@ class Distribution {
         this.yScale = d3.scaleLinear()
             .domain([0.75, 5.25]) // Ratings 1-5
             .range([this.height, 0]);
-
-        // Counts xScale
-        this.xScale = d3.scaleLinear()
-            .domain([0,175])
-            .range([100, this.width - this.rightMargin]);
     }
 
     addText() {
@@ -136,12 +131,12 @@ class Distribution {
     aggregateData(searchText = "") {
 
         let filteredData = (
-            searchText == "" ? 
+            searchText === "" ? 
             this.data : 
             this.data.filter(d => (
-                d.category_1 == searchText || 
-                d.category_3 == searchText || 
-                d.category_3 == searchText 
+                d.category_1 === searchText || 
+                d.category_3 === searchText || 
+                d.category_3 === searchText 
             ))
         );
 
@@ -166,12 +161,30 @@ class Distribution {
             }
         });
 
+        // Convert data types
         this.aggregate.forEach(d => {
             d.key = +d.key; //numeric
         })
 
-        this.total = d3.sum(this.aggregate, d => d.value);
-        this.average = d3.sum(this.aggregate, d => d.key * d.value) / this.total;
+        // Counts xScale
+        this.xScale = d3.scaleLinear()
+            .domain([0, d3.max(this.aggregate, d=>d.value)])
+            .range([120, this.width - this.rightMargin]);
+        
+        this.updateKPIs(searchText);
+    }
+
+    updateKPIs(searchText) {
+        // Calculate KPIs
+        let total = d3.sum(this.aggregate, d => d.value);
+        let average = d3.sum(this.aggregate, d => d.key * d.value) / total;
+        let rating = Math.round(average * 10 / 5) * 5 / 10;
+
+        // Update KPIs
+        document.getElementById("chart-ratings-category").innerHTML = `<h1>${(searchText === "" ? "All Businesses" : searchText)}</h1>`;
+        document.getElementById("chart-ratings-ratings-pic").innerHTML = `<img src="img/extra_large_${Math.floor(rating)}${rating % 1 === .5 ? "_half" : ""}.png">`;
+        document.getElementById("chart-ratings-ratings").innerHTML = `<h2>${average.toFixed(1)} rating</h2>`;
+        document.getElementById("chart-ratings-reviews").innerHTML = `<h2>${total} reviews</h2>`;
     }
 
     update() {

@@ -51,7 +51,7 @@ table {
 	margin: 0 auto;
 }
 
-.emphasis {
+.emphasis, a {
 	font-weight: bold;
 	color: #d42422;
 }
@@ -60,7 +60,7 @@ table {
 	background: #fcd8d3; 
 }
 
-/* ----------------- Businesses ----------------- */
+/* ----------------- Network ----------------- */
 
 .link {
   stroke: #5f5f5f;
@@ -73,10 +73,10 @@ table {
 }
 
 .node text {
-    text-anchor: middle;
+	text-anchor: middle;
+	alignment-baseline: middle;
 	fill: #ffffff;
 	font-size: 10px;
-	/*text-shadow: 0 0 1px #ffffff;*/
 }
 
 .legend-rect {
@@ -87,7 +87,7 @@ table {
 
 .legend-text {
 	text-anchor: middle;
-	alignment-baseline: central;
+	alignment-baseline: middle;
 	fill: #5f5f5f;
 	font-size: 9px;
 	font-weight: bold;
@@ -123,6 +123,26 @@ table {
 	margin: 0px auto;
 	background-color: #ffffff;
 	padding: 20px 100px 20px 100px;
+}
+
+.row-container {
+	display: flex;
+	flex-direction: row;
+	width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.col-container {
+	width: 400px;
+	display: flex;
+	flex-direction: column;
+}
+
+.right-border {
+	margin-right: 20px;
+	border-right: 1px solid #5f5f5f;
+	padding: 20px;
 }
 
 #header {

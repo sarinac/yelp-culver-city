@@ -11,32 +11,30 @@ class Network {
 
     validate(data) {
 
-        const recategorize = (category) => {
-
-            let superCategories = {
-                "Restaurants": ["Restaurants"],
-                "Food": ["Food"],
-                "Public + Recreation": ["Active Life", "Education", "Local Flavor", "Public Services & Government"],
-                "Shopping + Entertainment": ["Beauty & Spas", "Nightlife", "Shopping", "Arts & Entertainment"]
-            }
-    
-            for (var superList in superCategories) {
-                if (superCategories[superList].indexOf(category) >= 0) {
-                    return superList
-                }
-            }
+        // Map Yelp categories into super categories
+        const recategorize = {
+            "Restaurants": "Restaurants",
+            "Food": "Food",
+            "Active Life": "Public + Recreation",
+            "Education": "Public + Recreation",
+            "Local Flavor": "Public + Recreation",
+            "Public Services & Government": "Public + Recreation",
+            "Beauty & Spas": "Shopping + Entertainment",
+            "Nightlife": "Shopping + Entertainment",
+            "Shopping": "Shopping + Entertainment",
+            "Arts & Entertainment": "Shopping + Entertainment",
         };
 
         // Convert NODES data types
-        for(var i = 0; i < data.nodes.length; i++) { 
+        for(let i = 0; i < data.nodes.length; i++) { 
             data.nodes[i].category = "" + data.nodes[i].category; // string
-            data.nodes[i].super_category = recategorize(data.nodes[i].super_category); // string
+            data.nodes[i].super_category = recategorize[data.nodes[i].super_category]; // string
             data.nodes[i].count = +data.nodes[i].count; // numeric
             data.nodes[i].level = +data.nodes[i].level; // numeric
         };
 
         // Convert LINKS data types
-        for(var i = 0; i < data.links.length; i++) { 
+        for(let i = 0; i < data.links.length; i++) { 
                 data.links[i].source = "" + data.links[i].source; // string
                 data.links[i].target = "" + data.links[i].target; // string
                 data.links[i].count = +data.links[i].count; // numeric
@@ -134,10 +132,12 @@ class Network {
 
     createSimulation() {
         this.simulation = d3.forceSimulation(this.data.nodes)
+            .alpha(.5)
+            .randomSource(.5)
             .force("center", d3.forceCenter().x(this.width/2).y(this.height/2))
             .force("x", d3.forceX(this.width/2).strength(.5))
             .force("y", d3.forceY(this.height/2).strength(1))
-            .force("collision", d3.forceCollide().radius(d => this.rScale(d.count) + this.radiusPadding))
+            .force("collision", d3.forceCollide().radius(d => this.rScale(d.count) + this.radiusPadding).iterations(20))
             .force("link", d3.forceLink().links(this.data.links).id(d => d.category));
     }
 
@@ -156,7 +156,7 @@ class Network {
 
         const dragEvents = {
             dragstarted: (event, d) => {
-                // if (!event.active) this.simulation.alphaTarget(.03);
+                if (!event.active) this.simulation.alphaTarget(.005).restart();
                 d.fx = d.x;
                 d.fy = d.y;
             },
@@ -167,6 +167,7 @@ class Network {
             },
         
             dragended: (event, d) => {
+                if (!event.active) this.simulation.alphaTarget(0);
                 d.fx = null;
                 d.fy = null;
             },
@@ -180,22 +181,39 @@ class Network {
                 let xSuperPosition = document.getElementById("chart-businesses").getBoundingClientRect().x;
                 let ySuperPosition = document.getElementById("chart-businesses").getBoundingClientRect().y;
 
+                // Get name
+                let textName = d3.select(selector).data()[0]["category"];
+                let textValue = d3.select(selector).data()[0]["count"];
+
                 // Show the tooltip at updated position and value
                 let tooltip = d3.select("#tooltip")
                     .style("left", xSuperPosition + xPosition + "px")
                     .style("top", ySuperPosition + yPosition + window.scrollY + "px")
                     .classed("hidden", false);
-                tooltip.select("#name").text(d.category);
-                tooltip.select("#value").text(d.count);
+                tooltip.select("#name").text(textName);
+                tooltip.select("#value").text(textValue);
 
                 // Add stroke to nodes
-                d3.select(selector).style("stroke-width", 5);
-                    
-                // Change link color
-                let textValue = d3.select(selector).data()[0]["category"];
+                this.nodes
+                    .style("stroke", d => {
+                        return d.category === textName ?
+                        "#ffffff" :
+                        "#5f5f5f"
+                    })
+                    .style("stroke-width", d => {
+                        return d.category === textName ? 
+                        5 : 
+                        .5
+                    });
+
+                // Change link color                
                 this.links
-                    .style("stroke", d => d.source.category == textValue || d.target.category == textValue ? this.colorScale(d.super_category) : "#5f5f5f")
-                    .style("stroke-opacity", d => d.source.category == textValue || d.target.category == textValue ? 1 : .5);
+                    .style("stroke", d => {
+                        return d.source.category === textName || d.target.category === textName ? 
+                        (d.source.category === textName ? this.colorScale(d.source.super_category) : this.colorScale(d.target.super_category)) : 
+                        "#5f5f5f"
+                    })
+                    .style("stroke-opacity", d => d.source.category === textName || d.target.category === textName ? 1 : .2);
             },
 
             mouseOut: () => {
@@ -227,7 +245,7 @@ class Network {
                         .on("start", dragEvents.dragstarted)
                         .on("drag", dragEvents.dragged)
                         .on("end", dragEvents.dragended))
-                    .on("mouseover", function(event, d){hoverEvents.mouseOut(d, this)})
+                    .on("mouseover", function(event, d){hoverEvents.mouseOver(d, this)})
                     .on("mouseout", () => hoverEvents.mouseOut());
 
         this.nodeText = this.network
@@ -237,14 +255,19 @@ class Network {
                 .data(this.data.nodes)
                 .enter()
                 .append("text")
-                    .filter(d => (d.count > 10) && (d.category.length+7 < d.count))
                     .text(d => d.category)
                     .call(d3.drag()
                         .on("start", dragEvents.dragstarted)
                         .on("drag", dragEvents.dragged)
                         .on("end", dragEvents.dragended))
-                    .on("mouseover", function(d){hoverEvents.mouseOut(d, this)})
+                    .on("mouseover", function(d){hoverEvents.mouseOver(d, this)})
                     .on("mouseout", hoverEvents.mouseOut);
+        
+        // Bind this.rScale to variable rScale because "this" is NOT lexically bound
+        let rScale = this.rScale;
+        this.nodeText
+            .filter(function(d){ return d3.select(this).node().getComputedTextLength() >= 1.8 * rScale(d.count)})
+            .remove(); // Remove text if it doesn't fit in the radius
     }
 
     updateSimulation() {
