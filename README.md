@@ -1,5 +1,5 @@
 # yelp-culver-city
-🏙️🌆🌃
+🏙️ 🌆 🌃
 
 [See write-up here](https://ifcolorful.com/yelp-culver-city/)!
 
